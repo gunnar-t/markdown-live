@@ -13,6 +13,13 @@
 * [Changelog](#changelog)
 * [License](#license)
 
+## Changes to markdown-live original version
+
+* Show images
+
+If images are referenced in the markdown file the default is to search these in a public folder in the serving directory.
+(Should be changed via start param....todo)
+
 ## Screencasts
 
 ![](https://raw.githubusercontent.com/mobily/markdown-live/master/screencasts/gif1.gif)
